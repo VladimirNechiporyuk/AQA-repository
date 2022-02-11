@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<student>
+    <studentCardId>A0EEBC99-9C0B-4EF8-BB6D-6BB9BD380A11</studentCardId>
+    <name>Jone Power</name>
+    <age>23</age>
+    <address>
+        <country>USA</country>
+        <city>Los Angels</city>
+        <zip>90210</zip>
+        <postal>21001</postal>
+    </address>
+    <friends>
+        <entry>
+            <key>Steve Johnson</key>
+            <value>
+                <name>Steve Johnson</name>
+                <age>24</age>
+                <address>
+                    <country>USA</country>
+                    <city>Los Angels</city>
+                    <zip>90210</zip>
+                    <postal>21001</postal>
+                </address>
+                <yearsAsFriend>15</yearsAsFriend>
+            </value>
+        </entry>
+        <entry>
+            <key>Margaret Addison</key>
+            <value>
+                <name>Margaret Addison</name>
+                <age>22</age>
+                <address>
+                    <country>USA</country>
+                    <city>Vashington</city>
+                    <zip>90210</zip>
+                    <postal>21001</postal>
+                </address>
+                <yearsAsFriend>5</yearsAsFriend>
+            </value>
+        </entry>
+    </friends>
+    <married>false</married>
+    <interests>
+        <interest>Sport</interest>
+        <interest>Chess</interest>
+        <interest>Information technologies</interest>
+        <interest>Cooking</interest>
+    </interests>
+    <university>
+        <name>University of California Los Angeles</name>
+        <address>
+            <country>USA</country>
+            <city>Los Angels</city>
+            <zip>90210</zip>
+            <postal>21001</postal>
+        </address>
+        <age>103</age>
+    </university>
+    <courseNumber>4</courseNumber>
+</student>
