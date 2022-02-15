@@ -1,0 +1,55 @@
+{
+  "student": {
+    "studentCardId": "A0EEBC99-9C0B-4EF8-BB6D-6BB9BD380A11",
+    "name": "Jone Power",
+    "age": 23,
+    "address": {
+      "country": "USA",
+      "city": "Los Angels",
+      "zip": 90210,
+      "postal": 21001
+    },
+    "friends": {
+      "Steve Johnson": {
+        "name": "Steve Johnson",
+        "age": 24,
+        "address": {
+          "country": "USA",
+          "city": "Los Angels",
+          "zip": 90210,
+          "postal": 21001
+        },
+        "yearsAsFriend": 15
+      },
+      "Margaret Addison": {
+        "name": "Margaret Addison",
+        "age": 22,
+        "address": {
+          "country": "USA",
+          "city": "Vashington",
+          "zip": 90210,
+          "postal": 21001
+        },
+        "yearsAsFriend": 5
+      }
+    },
+    "married": false,
+    "interests": [
+      "Sport",
+      "Chess",
+      "Information technologies",
+      "Cooking"
+    ],
+    "university": {
+      "name": "University of California Los Angeles",
+      "address": {
+        "country": "USA",
+        "city": "Los Angels",
+        "zip": 90210,
+        "postal": 21001
+      },
+      "age": 103
+    },
+    "courseNumber": 4
+  }
+}
