@@ -1,0 +1,8 @@
+package com.aqa.lessons.enums;
+
+public enum ModifyOptions {
+    FIRST_AND_SECOND_INCREASE,
+    FIRST_INCREASE_SECOND_DECREASE,
+    FIRST_DECREASE_SECOND_INCREASE,
+    FIRST_DECREASE_SECOND_DECREASE
+}
